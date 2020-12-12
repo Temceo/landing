@@ -1,0 +1,14 @@
+.btn-green {
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: #1EDD88;
+  color: #fff;
+  padding: 8px 24px; 
+  border-radius: 16px;
+  transition: .3s;
+  box-shadow: 2px 2px 3px rgb(0,0,0,0.2);
+}
+
+.btn-green:hover {
+  background-color: #5de3d5;
+}

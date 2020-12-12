@@ -1,0 +1,56 @@
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.container img {
+  height: 120px;
+  width: 80px;
+}
+.container h2 {
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  height: 150px;
+  background-color: #2c2b2b;
+}
+
+footer .container {
+  text-align: center;
+}
+
+.socials {
+  margin-top: 25px;
+}
+
+.socials a {
+  font-size: 50px;
+  color: #1EDD88;
+}
+
+footer p {
+  color: #fff;
+}
+
+footer .fa-heart {
+  color: red;
+}
+
